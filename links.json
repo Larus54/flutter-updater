@@ -1,32 +1,87 @@
 {
-  "F1": [
-    {
-      "name": "Sky Sport F1",
-      "url": "https://rzdtwfb81w5jihkz.buyapartments.online/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09CMjNGZlVmZxQjZmRTLkJmMi1CM0EDNtITMwMTLkZDN3U2M2UzL.m3u8"
-    }
-  ],
-  "NBA": [
-    {
-      "name": "Sky Sport NBA",
-      "url": "https://rzdtwfb81w5jihkz.buyapartments.online/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09CMlJ2YlR2Y2Q2MhNTLldzY40CMiJGNtITM5IWL0ADN4U2M4IzL.m3u8"
-    }
-  ],
-  "Calcio": [
-    {
-      "name": "Sky Sport Calcio",
-      "url": "https://rzdtwfb81w5jihkz.buyapartments.online/v3/director/VE1ODVhNTY1YzU2YTk5LTI1MzgtNzY3NC1mMDdkLWQ0MmY1YTkz/master.m3u8?md5=AghdUe0ESYnqcc7g0C9q8g&expires=1751319520&t=1751276320"
-    }
-  ],
-  "MotoGP": [
-    {
-      "name": "Sky Sport MotoGP",
-      "url": "https://rzdtwfb81w5jihkz.buyapartments.online/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09yYmZTYxIGOyYWNwMTLxEjYi1yYhFDNtgzMiRTL4EWNhNWOzYzL.m3u8"
-    }
-  ],
-  "Tennis": [
-    {
-      "name": "Sky Sport Tennis",
-      "url": "https://rzdtwfb81w5jihkz.buyapartments.online/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09SNjRzYlhDMllDZ3YWLiNDN40SNjZDNtgTOhRTLzczNjVGZ5Y2L.m3u8"
-    }
-  ]
+    "F1": [
+        {
+            "name": "Sky Sport F1",
+            "url": "https://rzdtwfb81w5jihkz.buyapartments.online/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09CMjNGZlVmZxQjZmRTLkJmMi1CM0EDNtITMwMTLkZDN3U2M2UzL.m3u8"
+        }
+    ],
+    "NBA": [
+        {
+            "name": "Sky Sport NBA",
+            "url": "https://rzdtwfb81w5jihkz.buyapartments.online/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09CMlJ2YlR2Y2Q2MhNTLldzY40CMiJGNtITM5IWL0ADN4U2M4IzL.m3u8"
+        }
+    ],
+    "Calcio": [
+        {
+            "name": "Sky Sport Calcio",
+            "url": "https://rzdtwfb81w5jihkz.buyapartments.online/v3/director/VE1ODVhNTY1YzU2YTk5LTI1MzgtNzY3NC1mMDdkLWQ0MmY1YTkz/master.m3u8?md5=AghdUe0ESYnqcc7g0C9q8g&expires=1751319520&t=1751276320"
+        }
+    ],
+    "MotoGP": [
+        {
+            "name": "Sky Sport MotoGP",
+            "url": "https://rzdtwfb81w5jihkz.buyapartments.online/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09yYmZTYxIGOyYWNwMTLxEjYi1yYhFDNtgzMiRTL4EWNhNWOzYzL.m3u8"
+        }
+    ],
+    "Tennis": [
+        {
+            "name": "Sky Sport Tennis",
+            "url": "https://rzdtwfb81w5jihkz.buyapartments.online/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09SNjRzYlhDMllDZ3YWLiNDN40SNjZDNtgTOhRTLzczNjVGZ5Y2L.m3u8"
+        }
+    ],
+    "LiveChannel": [
+        {
+            "Rai": [
+                {
+                    "name": "Rai 1 HD",
+                    "url": "https://raiuno1-live.akamaized.net/hls/live/598308/raiuno1/raiuno1/playlist_ma.m3u8?hdnea=st=1750806665~exp=1750806815~acl=/*~hmac=2a96dd0af93602978d695200b388c326ad89b206a5852d765b457a411c760bd3",
+                    "program_url": "https://www.superguidatv.it/programmazione-canale/oggi/guida-programmi-tv-rai-1/217/"
+                },
+                {
+                    "name": "Rai 2 HD",
+                    "url": "https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raidue1/hls/playlist_ma.m3u8?baseuri=%2Fraidue1%2Fhls%2F&tstart=0&tend=1750806952&tof=86400&tk2=17221ecc50c1b00118e67fd0ec82eb4804c814e476d5217961e3adda458b8db2",
+                    "program_url": "https://www.superguidatv.it/programmazione-canale/oggi/guida-programmi-tv-rai-2/218/"
+                },
+                {
+                    "name": "Rai Sports HD",
+                    "url": "https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raisportuno1/hls/playlist_mo.m3u8?baseuri=%2Fraisportuno1%2Fhls%2F&tstart=0&tend=1750807011&tof=86400&tk2=af1b908c9a689dd50f9870b16871e3fc16bf23a092890932e89b4909cc634a7f",
+                    "program_url": "https://www.superguidatv.it/programmazione-canale/oggi/guida-programmi-tv-rai-sport-hd/223/"
+                }
+            ],
+            "Intrattenimento": [
+                {
+                    "name": "Sky Uno",
+                    "url": "https://stream.skyuno.m3u8",
+                    "program_url": "https://www.superguidatv.it/programmazione-canale/oggi/guida-programmi-tv-sky-uno-hd/1/"
+                },
+                {
+                    "name": "Sky Atlantic",
+                    "url": "https://stream.skyatlantic.m3u8",
+                    "program_url": "https://www.superguidatv.it/programmazione-canale/oggi/guida-programmi-tv-sky-atlantic-hd/3/"
+                }
+            ],
+            "Sport": [
+                {
+                    "name": "Eurosport 1",
+                    "url": "https://rzdtwfb81w5jihkz.buyapartments.online/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09SNxImZ1cTOzUDZ2MWLjJWNh1iMxUDNtETYjRWL4UzMwMGNyI2L.m3u8",
+                    "program_url": "https://www.superguidatv.it/programmazione-canale/oggi/guida-programmi-tv-eurosport-hd/sky-sport/45/"
+                },
+                {
+                    "name": "Eurosport 2",
+                    "url": "https://rzdtwfb81w5jihkz.buyapartments.online/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09iZ2IjN5cDO5Y2YwQWLhBDM50yN5QDNtIzNzATLhdTM0IGM4Y2L.m3u8",
+                    "program_url": "https://www.superguidatv.it/programmazione-canale/oggi/guida-programmi-tv-eurosport-2hd/sky-sport/46/"
+                },
+                {
+                    "name": "Sky Sport Arena",
+                    "url": "https://rzdtwfb81w5jihkz.buyapartments.online/v3/director/VE1YjQ0MzM0Nzg4NTk3LWYwMWEtNDcxNC03MjBhLTdiMWU3MTIy/master.m3u8?md5=hVoKQMatDJRbEBF73Ypm4Q&expires=1751449720&t=1751406520",
+                    "program_url": "https://www.superguidatv.it/programmazione-canale/oggi/guida-programmi-tv-sky-sport-arena/sky-sport/38/"
+                },
+                {
+                    "name": "Sky Sport 24",
+                    "url": "https://rzdtwfb81w5jihkz.buyapartments.online/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09SMyQTMjJDMjZmNycTL5AzNi1iZ2IGNtMTOihTL4QDNjR2N3QzL.m3u8",
+                    "program_url": "https://www.superguidatv.it/programmazione-canale/oggi/guida-programmi-tv-sky-sport24/sky-sport/36/"
+                }
+            ]
+        }
+    ]
 }
