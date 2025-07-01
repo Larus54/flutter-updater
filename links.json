@@ -83,5 +83,51 @@
                 }
             ]
         }
+    ],
+    "ForeignChannel": [
+        {
+            "Bein3": [
+                {
+                    "name": "Bein3",
+                    "url": "https://rzdtwfb81w5jihkz.buyapartments.online/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09iM1MjY3UGOlRDNlFWL3cDM40CZxMDNtYDO4kTL4EDNzMTM2YzL.m3u8"
+                }
+            ],
+            "Bein2": [
+                {
+                    "name": "Bein2",
+                    "url": "https://rzdtwfb81w5jihkz.buyapartments.online/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09SO4YTOwEzY2MTZmFTL5gDO50CMmdDNtUjYlNTLyATYyQ2MhR2L.m3u8"
+                }
+            ],
+            "Bein1": [
+                {
+                    "name": "Bein1",
+                    "url": "https://rzdtwfb81w5jihkz.buyapartments.online/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09SN5YGNhJDNhVmM4YTLlFGMi1iM1IDNtczNzgTLhJWNjZjYxMzL.m3u8"
+                }
+            ],
+            "TNT1": [
+                {
+                    "name": "TNT1",
+                    "url": "https://rzdtwfb81w5jihkz.buyapartments.online/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09iZ0QmNxEGMkVmZlhTLzYzYi1SMkNGNtIWYwcTL5ITY0AjZ2UzL.m3u8"
+                }
+            ],
+            "TNT2": [
+                {
+                    "name": "TNT2",
+                    "url": "https://rzdtwfb81w5jihkz.buyapartments.online/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09CO2ImM1cjYwkjY0QTLjlzN50CO3QGNtczYmRTLkFWZkJWM1M2L.m3u8"
+                }
+            ],
+            "TNT3": [
+                {
+                    "name": "TNT3",
+                    "url": "https://rzdtwfb81w5jihkz.buyapartments.online/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09SM4ETY4kDN3MTNzYWLhNmYi1iMlRGNtMDNzEWL3ImZ1EGN5Y2L.m3u8"
+                }
+            ],
+            "TNT4": [
+                {
+                    "name": "TNT4",
+                    "url": "https://rzdtwfb81w5jihkz.buyapartments.online/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09yNykzYjFTM2AjZ2ATL5U2Y40SOkNGNtQjYwcTLyQDNllDZ2Q2L.m3u8"
+                }
+            ]
+        }
     ]
 }
