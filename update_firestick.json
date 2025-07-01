@@ -3,8 +3,9 @@
   "version": "0.8.30",
   "apkUrl": "https://github.com/Larus54/nba_live/releases/download/v0.8.30/app-release-firestick.apk",
   "changelog": [
-      "✔️ Nuova schermata canali esteri",
-      "🛠️ Risolti problemi con BetterPlayer",
-      "🔄 Ottimizzata gestione dei permessi"
+      " -- HOTFIX 0.8.31 -- ",
+      "✔️ Spostamento parziale su server github",
+      "🛠️ Risolti link non funzionanti",
+      "🔄 App ottimizzata tramite server"
   ]
 }
