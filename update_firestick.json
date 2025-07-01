@@ -3,9 +3,9 @@
   "version": "0.8.31",
   "apkUrl": "https://github.com/Larus54/nba_live/releases/download/v0.8.31/app-release-firestick.apk",
   "changelog": [
-      " -- HOTFIX 0.8.31 -- ",
-      "✔️ Spostamento parziale su server github",
+      " -- HOTFIX 0.8.32 -- ",
+      "✔️ Spostamento quasi completo su server github",
       "🛠️ Risolti link non funzionanti",
-      "🔄 App ottimizzata tramite server"
+      "🔄 Bugfixing vario"
   ]
 }
