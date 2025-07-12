@@ -35,29 +35,34 @@
                 {
                     "name": "Rai 1 HD",
                     "url": "https://raiuno1-live.akamaized.net/hls/live/598308/raiuno1/raiuno1/playlist_ma.m3u8?hdnea=st=1750806665~exp=1750806815~acl=/*~hmac=2a96dd0af93602978d695200b388c326ad89b206a5852d765b457a411c760bd3",
-                    "program_url": "https://www.superguidatv.it/programmazione-canale/oggi/guida-programmi-tv-rai-1/217/"
+                    "program_url": "https://www.superguidatv.it/programmazione-canale/oggi/guida-programmi-tv-rai-1/217/",
+                    "auth_url": "https://thedaddy.click/stream/stream-878.php"
                 },
                 {
                     "name": "Rai 2 HD",
                     "url": "https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raidue1/hls/playlist_ma.m3u8?baseuri=%2Fraidue1%2Fhls%2F&tstart=0&tend=1750806952&tof=86400&tk2=17221ecc50c1b00118e67fd0ec82eb4804c814e476d5217961e3adda458b8db2",
-                    "program_url": "https://www.superguidatv.it/programmazione-canale/oggi/guida-programmi-tv-rai-2/218/"
+                    "program_url": "https://www.superguidatv.it/programmazione-canale/oggi/guida-programmi-tv-rai-2/218/",
+                    "auth_url": "https://thedaddy.click/stream/stream-878.php"
                 },
                 {
                     "name": "Rai Sports HD",
                     "url": "https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raisportuno1/hls/playlist_mo.m3u8?baseuri=%2Fraisportuno1%2Fhls%2F&tstart=0&tend=1750807011&tof=86400&tk2=af1b908c9a689dd50f9870b16871e3fc16bf23a092890932e89b4909cc634a7f",
-                    "program_url": "https://www.superguidatv.it/programmazione-canale/oggi/guida-programmi-tv-rai-sport-hd/223/"
+                    "program_url": "https://www.superguidatv.it/programmazione-canale/oggi/guida-programmi-tv-rai-sport-hd/223/",
+                    "auth_url": "https://thedaddy.click/stream/stream-878.php"
                 }
             ],
             "Intrattenimento": [
                 {
                     "name": "Sky Uno",
-                    "url": "https://stream.skyuno.m3u8",
-                    "program_url": "https://www.superguidatv.it/programmazione-canale/oggi/guida-programmi-tv-sky-uno-hd/1/"
+                    "url": "https://windnew.newkso.ru/wind/premium881/mono.m3u8",
+                    "program_url": "https://www.superguidatv.it/programmazione-canale/oggi/guida-programmi-tv-sky-uno-hd/1/",
+                    "auth_url": "https://thedaddy.click/stream/stream-881.php"
                 },
                 {
                     "name": "Sky Atlantic",
-                    "url": "https://stream.skyatlantic.m3u8",
-                    "program_url": "https://www.superguidatv.it/programmazione-canale/oggi/guida-programmi-tv-sky-atlantic-hd/3/"
+                    "url": "https://ddy6new.newkso.ru/ddy6/premium362/mono.m3u8",
+                    "program_url": "https://www.superguidatv.it/programmazione-canale/oggi/guida-programmi-tv-sky-atlantic-hd/3/",
+                    "auth_url": "https://thedaddy.click/stream/stream-362.php"
                 }
             ],
             "Sport": [
@@ -69,18 +74,21 @@
                 },
                 {
                     "name": "Eurosport 2",
-                    "url": "https://rzdtwfb81w5jihkz.buyapartments.online/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09iZ2IjN5cDO5Y2YwQWLhBDM50yN5QDNtIzNzATLhdTM0IGM4Y2L.m3u8",
-                    "program_url": "https://www.superguidatv.it/programmazione-canale/oggi/guida-programmi-tv-eurosport-2hd/sky-sport/46/"
+                    "url": "https://windnew.newkso.ru/wind/premium879/mono.m3u8",
+                    "program_url": "https://www.superguidatv.it/programmazione-canale/oggi/guida-programmi-tv-eurosport-2hd/sky-sport/46/",
+                    "auth_url": "https://thedaddy.click/stream/stream-879.php"
                 },
                 {
                     "name": "Sky Sport Arena",
-                    "url": "https://rzdtwfb81w5jihkz.buyapartments.online/v3/director/VE1YjQ0MzM0Nzg4NTk3LWYwMWEtNDcxNC03MjBhLTdiMWU3MTIy/master.m3u8?md5=hVoKQMatDJRbEBF73Ypm4Q&expires=1751449720&t=1751406520",
-                    "program_url": "https://www.superguidatv.it/programmazione-canale/oggi/guida-programmi-tv-sky-sport-arena/sky-sport/38/"
+                    "url": "https://ddy6new.newkso.ru/ddy6/premium462/mono.m3u8",
+                    "program_url": "https://www.superguidatv.it/programmazione-canale/oggi/guida-programmi-tv-sky-sport-arena/sky-sport/38/",
+                    "auth_url": "https://thedaddy.click/stream/stream-462.php"
                 },
                 {
                     "name": "Sky Sport 24",
-                    "url": "https://rzdtwfb81w5jihkz.buyapartments.online/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09SMyQTMjJDMjZmNycTL5AzNi1iZ2IGNtMTOihTL4QDNjR2N3QzL.m3u8",
-                    "program_url": "https://www.superguidatv.it/programmazione-canale/oggi/guida-programmi-tv-sky-sport24/sky-sport/36/"
+                    "url": "https://windnew.newkso.ru/wind/premium869/mono.m3u8",
+                    "program_url": "https://www.superguidatv.it/programmazione-canale/oggi/guida-programmi-tv-sky-sport24/sky-sport/36/",
+                    "auth_url": "https://thedaddy.click/stream/stream-869.php"
                 }
             ]
         }
