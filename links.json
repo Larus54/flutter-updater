@@ -64,7 +64,8 @@
                 {
                     "name": "Eurosport 1",
                     "url": "https://windnew.newkso.ru/wind/premium878/mono.m3u8",
-                    "program_url": "https://www.superguidatv.it/programmazione-canale/oggi/guida-programmi-tv-eurosport-hd/sky-sport/45/"
+                    "program_url": "https://www.superguidatv.it/programmazione-canale/oggi/guida-programmi-tv-eurosport-hd/sky-sport/45/",
+                    "auth_url": "https://thedaddy.click/stream/stream-878.php"
                 },
                 {
                     "name": "Eurosport 2",
