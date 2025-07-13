@@ -34,21 +34,21 @@
             "Rai": [
                 {
                     "name": "Rai 1 HD",
-                    "url": "https://raiuno1-live.akamaized.net/hls/live/598308/raiuno1/raiuno1/playlist_ma.m3u8?hdnea=st=1750806665~exp=1750806815~acl=/*~hmac=2a96dd0af93602978d695200b388c326ad89b206a5852d765b457a411c760bd3",
+                    "url": "https://ddy6new.newkso.ru/ddy6/premium850/mono.m3u8",
                     "program_url": "https://www.superguidatv.it/programmazione-canale/oggi/guida-programmi-tv-rai-1/217/",
-                    "auth_url": "https://thedaddy.click/stream/stream-878.php"
+                    "auth_url": "https://thedaddy.click/stream/stream-850.php"
                 },
                 {
                     "name": "Rai 2 HD",
-                    "url": "https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raidue1/hls/playlist_ma.m3u8?baseuri=%2Fraidue1%2Fhls%2F&tstart=0&tend=1750806952&tof=86400&tk2=17221ecc50c1b00118e67fd0ec82eb4804c814e476d5217961e3adda458b8db2",
+                    "url": "https://ddy6new.newkso.ru/ddy6/premium851/mono.m3u8",
                     "program_url": "https://www.superguidatv.it/programmazione-canale/oggi/guida-programmi-tv-rai-2/218/",
-                    "auth_url": "https://thedaddy.click/stream/stream-878.php"
+                    "auth_url": "https://thedaddy.click/stream/stream-851.php"
                 },
                 {
                     "name": "Rai Sports HD",
-                    "url": "https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raisportuno1/hls/playlist_mo.m3u8?baseuri=%2Fraisportuno1%2Fhls%2F&tstart=0&tend=1750807011&tof=86400&tk2=af1b908c9a689dd50f9870b16871e3fc16bf23a092890932e89b4909cc634a7f",
+                    "url": "https://ddy6new.newkso.ru/ddy6/premium882/mono.m3u8",
                     "program_url": "https://www.superguidatv.it/programmazione-canale/oggi/guida-programmi-tv-rai-sport-hd/223/",
-                    "auth_url": "https://thedaddy.click/stream/stream-878.php"
+                    "auth_url": "https://thedaddy.click/stream/stream-882.php"
                 }
             ],
             "Intrattenimento": [
@@ -63,6 +63,42 @@
                     "url": "https://ddy6new.newkso.ru/ddy6/premium362/mono.m3u8",
                     "program_url": "https://www.superguidatv.it/programmazione-canale/oggi/guida-programmi-tv-sky-atlantic-hd/3/",
                     "auth_url": "https://thedaddy.click/stream/stream-362.php"
+                },
+                {
+                    "name": "Sky Cinema Comedy",
+                    "url": "https://windnew.newkso.ru/wind/premium862/mono.m3u8",
+                    "program_url": "https://www.superguidatv.it/programmazione-canale/oggi/guida-programmi-tv-sky-cinema-comedy-hd/sky-cinema/82/",
+                    "auth_url": "https://thedaddy.click/stream/stream-862.php"
+                },
+                {
+                    "name": "Sky Cinema Collection",
+                    "url": "https://windnew.newkso.ru/wind/premium859/mono.m3u8",
+                    "program_url": "https://www.superguidatv.it/programmazione-canale/oggi/guida-programmi-tv-sky-cinema-collection-hd/sky-cinema/466/",
+                    "auth_url": "https://thedaddy.click/stream/stream-859.php"
+                },
+                {
+                    "name": "Sky Cinema Romance",
+                    "url": "https://windnew.newkso.ru/wind/premium864/mono.m3u8",
+                    "program_url": "https://www.superguidatv.it/programmazione-canale/oggi/guida-programmi-tv-sky-cinema-romance-hd/sky-cinema/469/",
+                    "auth_url": "https://thedaddy.click/stream/stream-864.php"
+                },
+                {
+                    "name": "Sky Cinema Uno",
+                    "url": "https://windnew.newkso.ru/wind/premium860/mono.m3u8",
+                    "program_url": "https://www.superguidatv.it/programmazione-canale/oggi/guida-programmi-tv-sky-cinema-uno-hd/sky-cinema/75/",
+                    "auth_url": "https://thedaddy.click/stream/stream-860.php"
+                },
+                {
+                    "name": "Sky Cinema Family",
+                    "url": "https://windnew.newkso.ru/wind/premium865/mono.m3u8",
+                    "program_url": "https://www.superguidatv.it/programmazione-canale/oggi/guida-programmi-tv-sky-cinema-family-hd/sky-cinema/79/",
+                    "auth_url": "https://thedaddy.click/stream/stream-865.php"
+                },
+                {
+                    "name": "Sky Cinema Suspense",
+                    "url": "https://ddy6new.newkso.ru/ddy6/premium868/mono.m3u8",
+                    "program_url": "https://www.superguidatv.it/programmazione-canale/oggi/guida-programmi-tv-sky-cinema-suspense-hd/sky-cinema/468/",
+                    "auth_url": "https://thedaddy.click/stream/stream-868.php"
                 }
             ],
             "Sport": [
