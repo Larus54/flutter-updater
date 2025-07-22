@@ -39,6 +39,18 @@
             "auth_url": "https://thedaddy.click/stream/stream-576.php"
         }
     ],
+    "WWE": [
+        {
+            "name": "WWE Network",
+            "url": "https://windnew.newkso.ru/wind/premium376/mono.m3u8",
+            "auth_url": "https://thedaddy.click/stream/stream-376.php"
+        },
+        {
+            "name": "WWE Netflix",
+            "url": "https://windnew.newkso.ru/wind/premium376/mono.m3u8",
+            "auth_url": "https://thedaddy.click/stream/stream-376.php"
+        }
+    ],
     "LiveChannel": [
         {
             "Rai": [
