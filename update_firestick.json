@@ -1,23 +1,10 @@
 {
   "status": "Online",
-  "version": "0.8.34",
-  "apkUrl": "https://github.com/Larus54/nba_live/releases/download/v0.8.34/app-release-firestick.apk",
+  "version": "0.8.40",
+  "apkUrl": "https://github.com/Larus54/nba_live/releases/download/v0.8.40/app-release-firestick.apk",
   "changelog": [
-      " -- Patch Notes v.0.8.34 -- ",
-      "🆕 IMPLEMENTAZIONE SISTEMA AUTENTICAZIONE PER CANALI🆕",
-      "Ora per tutti i canali premium è necessaria un'autenticazione necessaria",
-      "fatta in automatico dall'applicazione, cosi da non avere piu problemi",
-      "di link e connessione. Cosa cambia?:",
-      "- In ogni sezione, è stato aggiunto un indicatore visivo di quando",
-      "è stato effettuato l'autenticazione al server principale, appena diventa",
-      "verde con dicitura: \"Autenticazione confermata\", allora il canale",
-      "sarà visibile con la massima qualità",
-      "- Questa nuova funzione e metodo è da fare per ogni canale e sezione",
-      "in tutte le sezioni è stato aggiunto l'indicatore visivo",
-      "-----------------------------",
-      "🛠️ Risolto tutti i canali principali (non ancora calcio e stranieri, verrà sistamata",
-      "nella prossima patch solo i canali stranieri",
-      "🛠️ Sistemata la sezione WWE, aggiunto canale PPV (Pay-Per-View) attivo solo durante le trasmissioni",
+      " -- Patch Notes v.0.8.40 -- ",
+      "🛠️ Tutti i canali funzionanti anche calcio DAZN attivo",
       "🛠️ Bugfixing vario"
   ]
 }
