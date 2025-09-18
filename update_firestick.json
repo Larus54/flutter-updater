@@ -1,16 +1,12 @@
 {
   "status": "Online",
-  "version": "0.8.50",
-  "apkUrl": "https://github.com/Larus54/nba_live/releases/download/v0.8.50/app-release-firestick.apk",
+  "version": "0.8.60",
+  "apkUrl": "https://github.com/Larus54/nba_live/releases/download/v0.8.60/app-release-firestick.apk",
   "changelog": [
-      " -- Patch Notes v.0.8.50 -- ",
-      "NUOVO SISTEMA DI AUTENTICAZIONE",
-      "- Stiamo sperimentando una nuova nuova versione sui canali F1, Calcio, NBA, MotoGP",
-      "per vederne l'efficienza rispetto al precedente. Cosa cambia?",
-      "Ora non c'è piu bisogno di aspettare l'indicatore, basta cliccare il canale e fa tutto da solo!",
+      " -- Patch Notes v.0.8.60 -- ",
       "------------Fix & Updates ------------",
       "- [F] Aggiornato le impostazioni",
-      "- [+] Aggiunto nuovo metodo in caso in cui si blocca la stream, da sperimentare",
+      "- [+] Aggiunta nuova sezione \"Eventi di oggi\" funzionante",
       "- [F] Bug Fixing vario"
   ]
 }
