@@ -4,6 +4,10 @@
             "name": "Sky Sport F1 - Player 1",
             "url": "https://nfsnew.newkso.ru/nfs/premium577/mono.m3u8",
             "auth_url": "https://thedaddy.click/stream/stream-577.php"
+        },
+        {
+            "name": "Sky Sport F1 - Player 2",
+            "auth_url": "https://dlhd.dad/player/stream-577.php"
         }
     ],
     "NBA": [
