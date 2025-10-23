@@ -31,12 +31,12 @@
     ],
     "MotoGP": [
         {
-            "name": "Sky Sport Tennis - HD - Principale",
+            "name": "Sky Sport MotoGP - HD - Principale (Pesante)",
             "url": "https://nfsnew.newkso.ru/nfs/premium575/mono.m3u8",
             "auth_url": "https://thedaddy.click/stream/stream-575.php"
         },
         {
-            "name": "Sky Sport Tennis - SD - Alternativo",
+            "name": "Sky Sport MotoGP - SD - Alternativo (Fluido)",
             "url": "https://nfsnew.newkso.ru/nfs/premium575/mono.m3u8",
             "auth_url": "https://thedaddy.click/player/stream-575.php"
         }
