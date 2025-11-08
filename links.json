@@ -177,6 +177,11 @@
                     "url": "https://windnew.newkso.ru/wind/premium869/mono.m3u8",
                     "program_url": "https://www.superguidatv.it/programmazione-canale/oggi/guida-programmi-tv-sky-sport24/sky-sport/36/",
                     "auth_url": "https://thedaddy.click/stream/stream-869.php"
+                },
+                {
+                    "name": "Sky Sport Uno",
+                    "program_url": "https://www.superguidatv.it/programmazione-canale/oggi/guida-programmi-tv-sky-sport-uno/sky-sport/37/",
+                    "auth_url": "https://thedaddy.click/player/stream-461.php"
                 }
             ]
         }
