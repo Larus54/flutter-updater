@@ -1,9 +1,9 @@
 {
   "status": "Online",
-  "version": "0.8.64",
-  "apkUrl": "https://github.com/Larus54/nba_live/releases/download/v0.8.64/app-release-firestick.apk",
+  "version": "0.8.65",
+  "apkUrl": "https://github.com/Larus54/nba_live/releases/download/v0.8.65/app-release-firestick.apk",
   "changelog": [
-      " -- Patch Notes v.0.8.63 -- ",
+      " -- Patch Notes v.0.8.65 -- ",
       "------------Fix & Updates ------------",
       "- [F] Aggiornato intero sistema autenticazione, ora piu robusto",
       "- [+] Sistemazione varie",
